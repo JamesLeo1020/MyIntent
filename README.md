@@ -1,5 +1,6 @@
 # MyIntent
-![Alt Text](https://github.com/leo-chan1020/MyIntent/blob/master/Mylinearlayout.jpg)
+![Alt Text](https://github.com/leo-chan1020/MyIntent/blob/master/1MyIntent.jpg)
+![Alt Text](https://github.com/leo-chan1020/MyIntent/blob/master/2MyIntent.jpg)
 
 #Berikan penjelasan dari perbedaan linear layout, relative layout, dan constrain layout.
 Linear Layout adalah jenis layout dimana user menempatkan 1 objek per baris atau kolom secara sejajar. Jadi di dalam setiap baris atau kolom hanya ada 1 objek 
